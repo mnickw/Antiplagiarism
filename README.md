@@ -1,5 +1,4 @@
-﻿﻿
-# ﻿Практики «Антиплагиат» и «Diff Tool»
+# Практики «Антиплагиат» и «Diff Tool»
 Репозиторий содержит решения [этой](https://ulearn.me/course/basicprogramming2/Praktika_Antiplagiat__56409c8e-d038-45f7-8e37-e98c027b7930) и [этой](https://ulearn.me/course/basicprogramming2/Praktika_Diff_Tool__d71f996c-3bb0-4909-8c03-47322c4f0498) задачи с ulearn.me.
 Задачи прошли код-ревью у преподавателя (баллы: 50/50, 100/100). Все решения курса на максимальный балл также выложены в других репозиториях.
 Ветка unsolved содержит изначальный проект.
